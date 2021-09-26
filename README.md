@@ -1,5 +1,5 @@
 
-# i Know it is out of the rules but it is my feeling that please allow me the scale of 60 markes. i had completed the project on time but last 3 hourse of assignment deadline was so bad for me , my git repo did start problem that not takeing git push command. i tried but faild then i noticed it over 11 pm i thouth support session is over but at the last moment someome give the link on that then the problem solved  but my deadline has done... if it possible allow me for 60 marks it will help me to have on track . thank you!
+i Know it is out of the rules but it is my feelings that please allow me the scale of 60 markes. i had completed the project on time but last 3 hourse of assignment deadline was so bad for me , my git repo did start problem that not takeing git push command. i tried but faild then i noticed it over 11 pm i thouth support session is over but at the last moment someome give the link on that then the problem solved  but my deadline has done... if it possible allow me for 60 marks it will help me to have on track . thank you!
 
 
 
