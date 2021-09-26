@@ -1,0 +1,30 @@
+.university{
+            /* height: 520px; */
+            border-radius: 15px;
+           
+}
+
+
+div img{
+            border-radius:20px;
+           
+}
+
+
+.button{
+            border: none;
+                                    /* background-color: #2bb9e4; */
+            background-color: #7952B3;
+            border-radius: 15px;
+            color: white;
+}
+
+.cart-border{
+          border-radius: 15px;  
+          background-color: rgba(222, 230, 201, 0.938);
+          border: 5px solid goldenrod;
+}
+
+.title-style{
+            color: #7952B3;
+}
