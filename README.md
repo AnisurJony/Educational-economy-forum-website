@@ -5,7 +5,7 @@ i Know it is out of the rules but it is my feelings that please allow me the sca
 
 #   Welcome to Educational Economy Foram USA
 
-# 
+# live link: https://infallible-poincare-3945ff.netlify.app/
 
 this project is about USA University economical turnover every year.this is not complete project it has to be modified more, but i skipped because i only focused on assignment requerment. 
 
